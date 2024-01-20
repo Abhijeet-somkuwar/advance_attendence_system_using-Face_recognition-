@@ -30,4 +30,4 @@ Adjust the number_of_times_to_upsample parameter in the code based on the perfor
 Feel free to customize the code to suit your specific use case.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
