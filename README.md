@@ -21,9 +21,12 @@ source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 Press 'q' to exit the application.
 
 Configuration
-images_folder_path: Path to the folder containing images of known individuals.
-webcam_video_stream: Initialize the video stream (default is set to the default camera).
-attendance.xlsx: Excel file to store attendance records.
+'images_folder_path': Path to the folder containing images of known individuals.
+
+'webcam_video_stream': Initialize the video stream (default is set to the default camera).
+
+'attendance.xlsx': Excel file to store attendance records.
+
 Notes
 The attendance is marked and saved in an Excel file (attendance.xlsx).
 Adjust the number_of_times_to_upsample parameter in the code based on the performance of your system.
